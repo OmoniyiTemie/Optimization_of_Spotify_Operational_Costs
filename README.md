@@ -1,4 +1,4 @@
-# OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS
+# PROJECT 1: OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS
 
 
 ## DATASET
@@ -28,8 +28,24 @@ OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
 
 -------------------------------------------------------------------------------
 
+
+
 ### VISUALIZATIONS
 
+OPERATIONAL COST CONTRIBUTION %
+![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/OCC%25.PNG)
+
+FEATURE IMPORTANCE
+![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/Feature%20Importance%20on%20Efficiency%20Score.png)
+
+GROSS PROFIT MARGIN ANALYSIS
+![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/GPMA.PNG)
+
+OPTIMIZATION MARGINAL REVENUE AND MARGINAL COST
+![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/MR%20vs%20MC.png)
+
+OUTCOME TRACKING DASHBOARD
+![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/Outcome%20Tracking.PNG)
 
 
 
@@ -37,17 +53,8 @@ OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
 
 
 
-
-
-
-
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------
-Have a peek at the Project's Presentation Slides [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf) *(I usually put a presentation together for my projects)*
+------------------------------------------------------------------------------------------------------------------------
+Open presentation(pptx) for better insights - Click [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf) *(I usually put a presentation together for my projects)*
 
 
 
