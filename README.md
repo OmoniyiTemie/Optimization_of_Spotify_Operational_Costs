@@ -1,3 +1,3 @@
 # OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS
 
-## [DATASET](https://www.kaggle.com/datasets/mauryansshivam/spotify-revenue-expenses-and-its-premium-users)
+## [DATASET](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/DATASET/Spotify%20Quarterly.csv)
