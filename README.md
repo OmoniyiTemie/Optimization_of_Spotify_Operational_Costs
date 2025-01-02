@@ -26,6 +26,11 @@ REGRESSION ANALYSIS
 OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/OPTIMIZATION.PNG)
 
+-------------------------------------------------------------------------------
+
+### VISUALIZATIONS
+
+
 
 
 
@@ -42,9 +47,7 @@ OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
 
 
 -------------------------------------------------------------------------------------------------------------------
-Have a peek at the Project's:
-- Presentation Slides [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf) *(I usually put a presentation together for my projects)*
-- Tableau Visualizations [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/Tableau/SPOTIFY.twb)
+Have a peek at the Project's Presentation Slides [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf) *(I usually put a presentation together for my projects)*
 
 
 
