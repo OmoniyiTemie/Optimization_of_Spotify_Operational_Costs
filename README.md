@@ -55,7 +55,7 @@ OUTCOME TRACKING DASHBOARD
 
 
 ------------------------------------------------------------------------------------------------------------------------
-Open presentation(pptx) for better insights - Click [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf) *(I usually put a presentation together for my projects)*
+Open presentation (pptx) for better insights - Click [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf)
 
 
 
