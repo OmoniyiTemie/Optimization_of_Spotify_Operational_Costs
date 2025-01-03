@@ -2,27 +2,78 @@
 
 
 ## DATASET - [Spotify Revenue, Expenses and Its Premium Users – Quarterly Report (Q4 2016 - Q1 2023)](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/DATASET/Spotify%20Quarterly.csv)
-  Source - Kaggle
+  *Source - Kaggle*
+
+  
 ------------------------------------------------------------------------------
+
+
+Carried out the project based on 3 research questions:
+
+**MAIN QUESTION**
+
+How do Spotify's operational costs impact profitability across areas?
+
+**EFFICIENCY FOCUS**
+
+Is Spotify effectively allocating resources to maximize profitability?
+
+**IMPROVEMENT STRATEGIES**
+
+What actions can Spotify take to optimize costs and enhance efficiency?
+
+
+
+--------------------------------------------
+
 
 ### PYTHON CODES
 
-CORRELATION ANALYSIS
+**CORRELATION ANALYSIS**
+
+*Checking how significant each Operational Cost is to revenue*
+
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/Correlation.PNG)
 
-OPERATIONAL COST CONTRIBUTION
+
+
+**OPERATIONAL COST CONTRIBUTION**
+
+*Contribution of each Operational Costs to Revenue aceoss Quarters*
+
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/Op_CostContribution_Var_Analysis.PNG)
 
-GROSS PROFIT MARGIN DISTRIBUTION
+
+
+
+**GROSS PROFIT MARGIN DISTRIBUTION**
+
+*Showing how Spotify's Gross Profit Margin is distributed across Quarters*
+
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/GPMD.PNG)
 
-VARIANCE INFLATION FACTOR
+
+
+**VARIANCE INFLATION FACTOR**
+
+*Checking for collinearity*
+
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/VIF%20Analysis.PNG)
 
-REGRESSION ANALYSIS
+
+
+**REGRESSION ANALYSIS**
+
+*Regression analysis was carried out to quantify the relationship between operational costs and profitability metrics like gross profit*
+
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/Regression%20Analysis.PNG)
 
-OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE
+
+
+**OPTIMIZATION USING THE MARGINAL COST AND THE MARGNIAL REVENUE**
+
+*Checking how Spotify's Marginal Revenue and Marginal Cost has been distributed across the quarters and the points of possible optimization (intersection where MR=MC)*
+
 ![](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/images/OPTIMIZATION.PNG)
 
 -------------------------------------------------------------------------------
@@ -53,7 +104,7 @@ OUTCOME TRACKING DASHBOARD
 
 
 
-------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 Open presentation (pptx) for better insights - Click [here](https://github.com/OmoniyiTemie/OPTIMIZATION_OF_SPOTIFY_OPERATIONAL_COSTS/blob/main/PPTX/SPOTIFY_COST_EFFICIENCY_AND_PROFITABILITY_OPTIMIZATION%20(1).pdf)
 
 
